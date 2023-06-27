@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Text fil
 branch2
+=======
+Text file
+
+3 branch
+>>>>>>> branch3
